@@ -2,19 +2,17 @@
 <h3 align="center">Desktop Support Engineer | IT Support Specialist</h3>
 
 <p align="center">
-  Reliable IT Support Professional with hands-on experience in troubleshooting, system administration, and end-user support.
+  Experienced Desktop Support Engineer with 3+ years of hands-on expertise in enterprise IT support, system troubleshooting, and user-focused service delivery.
 </p>
 
----
-
 ## 🧑‍💻 About Me
-Greetings! My name is **Parth Chauhan**, and I work as a **Desktop Support Engineer**.
+I am a **Desktop Support Engineer with over 3 years of professional experience** supporting enterprise environments. I specialize in diagnosing and resolving hardware, software, and network issues while ensuring minimal downtime and high user satisfaction.
 
-I specialize in providing efficient technical support for hardware, software, and network-related issues. I am passionate about ensuring system reliability, minimizing downtime, and delivering excellent user support in enterprise and corporate environments.
-
-I have strong experience supporting Windows and Mac-based systems, managing Active Directory, resolving network issues, and assisting users with day-to-day IT operations.
+I have strong exposure to **Windows OS environments, Active Directory administration, Microsoft 365 support, endpoint security, and ITSM ticketing systems**. I am known for clear communication, structured troubleshooting, and adherence to ITIL best practices.
 
 ---
+
+
 
 ## 🛠️ Core Skills & Technologies
 
