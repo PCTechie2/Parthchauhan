@@ -48,7 +48,7 @@ I have strong exposure to **Windows OS environments, Active Directory administra
   ---
 
 ## 📊 GitHub Activity
-![GitHub Stats](https://github-readme-stats.vercel.app/api?PCTechie2=Parthchauhan&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Parthchauhan&show_icons=true&theme=dark)
 
 ---
 
